@@ -4,7 +4,9 @@
 Customer churn is a major challenge for businesses, especially in the telecom industry, where losing customers translates to revenue loss. Studies suggest that acquiring a new customer can be **5–7 times more expensive** than retaining an existing one.  
 
 This project analyzes a telecom customer churn dataset to uncover trends, identify high-risk customers, and suggest actionable retention strategies.
-![image](https://github.com/user-attachments/assets/9106f735-77d2-41b4-a27f-07b71279193a)
+
+Here's a snapshot of the dashboard:
+![image](https://github.com/user-attachments/assets/1b8f1891-70f6-4070-b5b1-d440ca3680b9)
 
 
 ---
