@@ -85,8 +85,3 @@ The final dashboard provided **actionable insights** using:
 ## **Limitations**  
 - The dataset lacks demographic details that could refine churn predictions.  
 - External factors (e.g., competitor promotions) were not included in the analysis.  
-
----
-
-## **References**  
-[1] Customer Retention Studies - Harvard Business Review  
